@@ -285,9 +285,6 @@ body{
             flex-direction: column;
             row-gap: 10px;
         }
-        .logo{
-            width: 5px;
-                }
         .humbuger{
             display: block;
         }
@@ -337,5 +334,3 @@ body{
            padding: 5px;
         }
     }
-
-  
