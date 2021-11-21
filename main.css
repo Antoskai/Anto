@@ -82,7 +82,7 @@ body{
         display: flex;
         flex-direction: column;
         row-gap: 20px;
-        background-color: aqua;
+        background-color: black;
         align-items: center;
         /* position: fixed; */
         bottom: 0;
@@ -128,7 +128,7 @@ body{
         margin: 0 auto;
         justify-content: space-evenly;
         align-items: center;
-        background-color: aqua;
+        background-color: purple;
     }
     .card{
         display: flex;
