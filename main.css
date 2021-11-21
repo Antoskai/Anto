@@ -62,11 +62,11 @@ nav > a{
    padding: 20px; 
 }
 .self > h1{
-    color:plum;
+    color:black;
 }
 .self > div >p{
     font-size: x-large;
-    color: aqua;
+    color: black;
     /* color: white; */
 }
 button{
