@@ -1,6 +1,6 @@
 /* Add a sky blue backgfont-familiy css tag */
 body{
-    background-color:peachpuff;
+    background-color:aqua;
     }
     a:hover
      {
@@ -71,7 +71,7 @@ body{
     }
     button{
         padding: 10px;
-        background-color: darkgreen;
+        background-color:plum;
         margin-top: 10px;
         font-size: larger;
         border: none;
@@ -82,7 +82,7 @@ body{
         display: flex;
         flex-direction: column;
         row-gap: 20px;
-        background-color:aqua;
+        background-color:whitesmoke;
         align-items: center;
         /* position: fixed; */
         bottom: 0;
@@ -128,7 +128,7 @@ body{
         margin: 0 auto;
         justify-content: space-evenly;
         align-items: center;
-        background-color:peachpuff;
+        background-color:aqua;
     }
     .card{
         display: flex;
@@ -151,19 +151,19 @@ body{
         padding: 30px;
     }
     #skills > h1{
-        color: aliceblue;
+        color: black;
     }
     .languages > h3{
-        color: aliceblue;
+        color: black;
     }
     .database > h3{
-        color: aliceblue;
+        color: black;
     }
     .languages{
         display: flex;
         flex-direction: column;
         row-gap: 20px;
-        border-right: 3px solid white;
+        border-right: 3px solid black;
         align-items: center;
     }
     .database{
@@ -185,7 +185,7 @@ body{
     #contact{
         display: flex;
         flex-direction: column;
-        background-color:peachpuff;
+        background-color:aqua;
         padding: 20px;
         align-items: center;
     }
@@ -224,7 +224,7 @@ body{
         margin-left: 0 !important;
     }
     .btn{
-        background-color: whitesmoke;
+        background-color:plum;
         width: 50%;
         padding: 10px;
     }
